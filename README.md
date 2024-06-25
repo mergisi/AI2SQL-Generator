@@ -48,7 +48,7 @@ Contact our support team to obtain a new upgrade key when needed.
 
 ## Support
 
-For issues, questions, or to obtain an upgrade key, please contact our support team at support@ai2sql.com or [open an issue](https://github.com/yourusername/your-repo-name/issues) on this repository.
+For issues, questions, or to obtain an upgrade key, please contact our support team at support@ai2sql.io or [open an issue](https://github.com/yourusername/your-repo-name/issues) on this repository.
 
 ## Privacy and Security
 
