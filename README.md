@@ -61,7 +61,6 @@ This software is provided "as is", without warranty of any kind. Use at your own
 ## Acknowledgements
 
 - OpenAI for the GPT model used in SQL generation
-- Electron framework for the application structure
 
 
 ---
