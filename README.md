@@ -60,7 +60,7 @@ AI2SQL Generator operates on a usage-based licensing model:
 
 ## Support
 
-For issues, questions, or to obtain an upgrade key, please contact our support team at support@ai2sql.com or [open an issue](https://github.com/mergisi/AI2sql-Generator/issues) on this repository.
+For issues, questions, or to obtain an upgrade key, please contact our support team at support@ai2sql.io or [open an issue](https://github.com/mergisi/AI2sql-Generator/issues) on this repository.
 
 ## Privacy and Security
 
