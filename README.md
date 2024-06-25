@@ -28,6 +28,49 @@ For macOS users, AI2SQL Generator is available as a .dmg installer.
 
 Note for macOS users: If you encounter a security warning when first opening the app, right-click (or Control-click) on the app icon and select "Open" from the context menu.
 
+### Security Warnings and How to Proceed
+
+Sometimes, Windows or macOS may prevent the app from running due to security measures. Here's what to do:
+
+#### Windows Users
+
+If Windows SmartScreen prevents the app from running:
+
+1. When the warning appears, click on "More info".
+2. Then click on "Run anyway".
+
+If you receive a "Windows protected your PC" message:
+
+1. Click on "More information".
+2. Then click "Run anyway".
+
+#### macOS Users
+
+If macOS prevents the app from opening because it's from an unidentified developer:
+
+1. Right-click (or Control-click) on the AI2SQL Generator app in your Applications folder.
+2. Select "Open" from the context menu.
+3. Click "Open" in the dialog box that appears.
+
+Note: You only need to do this the first time you run the application. After that, you can open it normally.
+
+If you see a message that the app is damaged:
+
+1. Open System Preferences.
+2. Go to Security & Privacy.
+3. Click the General tab.
+4. Click the lock and enter your password to make changes.
+5. Under "Allow apps downloaded from," select "App Store and identified developers" if it isn't already selected.
+
+If you still can't open the app:
+
+1. Open Terminal.
+2. Type: `xattr -dr com.apple.quarantine ` (include the space at the end).
+3. Drag the AI2SQL Generator app into the Terminal window and press Enter.
+
+These steps should allow you to run the application. If you continue to experience issues, please contact our support team.
+
+
 ## System Requirements
 
 ### Windows
