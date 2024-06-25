@@ -14,7 +14,7 @@ AI2SQL Generator is an AI-powered desktop application that converts natural lang
 
 AI2SQL Generator is distributed as a portable .exe file for Windows x64 systems. No installation is required.
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/your-repo-name/releases) page.
+1. Download the latest release from the [Releases](https://github.com/mergisi/AI2sql-Generator/releases) page.
 2. Run the `AI2SQL-Generator-Portable.exe` file directly.
 
 ## Usage
