@@ -117,9 +117,9 @@ We value your input! Please open an issue in this repository for bug reports or 
 
 This software is provided "as is", without warranty of any kind. Use at your own risk. Always review generated SQL before execution in production environments.
 
-## License
+## Acknowledgements
 
-[Specify your license here, e.g., MIT, GPL, etc.]
+- OpenAI for the GPT model used in SQL generation
 
 ---
 
