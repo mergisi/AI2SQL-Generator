@@ -20,7 +20,7 @@ AI2SQL Generator is distributed as a portable .exe file for Windows x64 systems.
 ### macOS
 For macOS users, AI2SQL Generator is available as a .dmg installer.
 
-1. Download the latest macOS release (.dmg file) from the [Releases]([https://github.com/mergisi/AI2SQL-Generator/releases/tag/v1.0.3]([https://github.com/mergisi/AI2sql-Generator/releases](https://github.com/mergisi/AI2SQL-Generator/releases/tag/v1.0.3))) page.
+1. Download the latest macOS release (.dmg file) from the [Releases](https://github.com/mergisi/AI2SQL-Generator/releases/tag/v1.0.3) page.
 2. Open the downloaded .dmg file.
 3. Drag the AI2SQL Generator app to your Applications folder.
 4. Eject the disk image.
