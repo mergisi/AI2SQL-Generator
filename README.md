@@ -1,11 +1,11 @@
 # AI2SQL Generator
 
-AI2SQL Generator is an innovative desktop application that uses artificial intelligence to convert natural language queries into SQL statements, making database interactions more intuitive and efficient for users of all skill levels.
+AI2SQL Generator is an innovative desktop application that uses artificial intelligence to convert natural language queries into SQL statements, making database interactions more intuitive and efficient for users of all skill levels. It now supports both SQL Server and MySQL databases.
 
 ## Features
 
 - AI-powered SQL generation from natural language input
-- Database connection management
+- Database connection management for SQL Server and MySQL
 - Query execution and result display
 - User-friendly interface for both Windows and macOS
 
@@ -28,49 +28,6 @@ For macOS users, AI2SQL Generator is available as a .dmg installer.
 
 Note for macOS users: If you encounter a security warning when first opening the app, right-click (or Control-click) on the app icon and select "Open" from the context menu.
 
-### Security Warnings and How to Proceed
-
-Sometimes, Windows or macOS may prevent the app from running due to security measures. Here's what to do:
-
-#### Windows Users
-
-If Windows SmartScreen prevents the app from running:
-
-1. When the warning appears, click on "More info".
-2. Then click on "Run anyway".
-
-If you receive a "Windows protected your PC" message:
-
-1. Click on "More information".
-2. Then click "Run anyway".
-
-#### macOS Users
-
-If macOS prevents the app from opening because it's from an unidentified developer:
-
-1. Right-click (or Control-click) on the AI2SQL Generator app in your Applications folder.
-2. Select "Open" from the context menu.
-3. Click "Open" in the dialog box that appears.
-
-Note: You only need to do this the first time you run the application. After that, you can open it normally.
-
-If you see a message that the app is damaged:
-
-1. Open System Preferences.
-2. Go to Security & Privacy.
-3. Click the General tab.
-4. Click the lock and enter your password to make changes.
-5. Under "Allow apps downloaded from," select "App Store and identified developers" if it isn't already selected.
-
-If you still can't open the app:
-
-1. Open Terminal.
-2. Type: `xattr -dr com.apple.quarantine ` (include the space at the end).
-3. Drag the AI2SQL Generator app into the Terminal window and press Enter.
-
-These steps should allow you to run the application. If you continue to experience issues, please contact our support team.
-
-
 ## System Requirements
 
 ### Windows
@@ -87,11 +44,18 @@ These steps should allow you to run the application. If you continue to experien
 
 1. Launch AI2SQL Generator.
 2. Set up your database connection in the "Data Sources" section.
+   - Choose between SQL Server or MySQL
+   - Provide the necessary connection details (server, database name, username, password)
 3. Navigate to the "SQL Generator" section.
 4. Select your database and relevant tables.
 5. Enter your query in natural language.
 6. Click "Generate SQL" to create the SQL statement.
 7. Review and execute the generated SQL if desired.
+
+## Supported Databases
+
+- Microsoft SQL Server
+- MySQL
 
 ## License Management
 
