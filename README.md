@@ -14,13 +14,13 @@ AI2SQL Generator is an innovative desktop application that uses artificial intel
 ### Windows
 AI2SQL Generator is distributed as a portable .exe file for Windows x64 systems. No installation is required.
 
-1. Download the latest Windows release (`AI2SQL-Generator-Portable.exe`) from the [Releases](https://github.com/mergisi/AI2SQL-Generator/releases/download/v1.0.2/AI2SQL.Generator-Portable-1.0.0.exe) page.
+1. Download the latest Windows release (`AI2SQL-Generator-Portable.exe`) from the [Releases](https://github.com/mergisi/AI2SQL-Generator/releases/) page.
 2. Run the `AI2SQL-Generator-Portable.exe` file directly.
 
 ### macOS
 For macOS users, AI2SQL Generator is available as a .dmg installer.
 
-1. Download the latest macOS release (.dmg file) from the [Releases](https://github.com/mergisi/AI2SQL-Generator/releases/tag/v1.0.3) page.
+1. Download the latest macOS release (.dmg file) from the [Releases](https://github.com/mergisi/AI2SQL-Generator/releases/) page.
 2. Open the downloaded .dmg file.
 3. Drag the AI2SQL Generator app to your Applications folder.
 4. Eject the disk image.
